@@ -1,0 +1,7 @@
+C:\Users\Eddy\source\repos\exercise2-bis\exercise2-bis\obj\Debug\exercise2-bis.csprojAssemblyReference.cache
+C:\Users\Eddy\source\repos\exercise2-bis\exercise2-bis\obj\Debug\exercise2-bis.csproj.CoreCompileInputs.cache
+C:\Users\Eddy\source\repos\exercise2-bis\exercise2-bis\bin\Debug\exercise2-bis.exe.config
+C:\Users\Eddy\source\repos\exercise2-bis\exercise2-bis\bin\Debug\exercise2-bis.exe
+C:\Users\Eddy\source\repos\exercise2-bis\exercise2-bis\bin\Debug\exercise2-bis.pdb
+C:\Users\Eddy\source\repos\exercise2-bis\exercise2-bis\obj\Debug\exercise2-bis.exe
+C:\Users\Eddy\source\repos\exercise2-bis\exercise2-bis\obj\Debug\exercise2-bis.pdb
